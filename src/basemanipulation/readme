@@ -1,0 +1,5 @@
+To compare two different numbers with different base we would do the following to solve it
+
+1) Convert each number (with different base) to base 10
+
+2) Compare if the two base 10 numbers are equal, if so then return true
